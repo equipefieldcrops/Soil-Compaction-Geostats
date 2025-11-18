@@ -172,16 +172,14 @@ The workflow performs:
 - Raster export (GeoTIFF)
 
 ## Directory Structure
-```
-
 geostats_kriging_repository/
 ├─ data/
 ├─ scripts/
 ├─ results/
 ├─ workflow/
 └─ README.md
+```
 
-````
 
 ## Running the Workflow
 
