@@ -195,35 +195,3 @@ See the `workflow/` folder for the `Makefile` and instructions to use `renv`.
 
 ```
 
----
-
-## `workflow/Makefile`
-
-```
-
-all: setup run
-
-setup:
-R -e "if(!require('renv')) install.packages('renv'); renv::init(bare=TRUE); renv::restore()"
-
-run:
-Rscript scripts/kriging_workflow.R
-
-clean:
-rm -rf results/*
-
-```
-
----
-
-If you'd like, I can also:
-- insert the actual variable names from the PDF (soil resistance at different depths),
-- generate an RMarkdown report,
-- generate a ZIP file containing the full repository ready for GitHub.
-
-Just let me know!
-
-```
-
-
-
