@@ -2,7 +2,7 @@
 
 This repository contains a **fully reproducible geostatistical workflow** in **English**, adapted for the paper:
 
-**“Assessing soil mechanical resistance at different depths and compaction mapping at field scale” (2024)**
+**“Assessing soil mechanical resistance at different depths and compaction mapping at field scale” (Camargo et al. 2024)**
 
 It includes:
 
@@ -35,7 +35,8 @@ geostats_kriging_repository/
 # Geostatistical Analysis Workflow
 # Adapted for the paper:
 # "Assessing soil mechanical resistance at different depths and compaction
-# mapping at field scale" (2024)
+# mapping at field scale" (Camargo et al. 2024)
+# DOI: dx.doi.org/10.1139/cjss-2024-0005
 # Author: Mauricio Fornalski
 # Description: complete workflow for variogram modelling, kriging interpolation
 # and model validation.
