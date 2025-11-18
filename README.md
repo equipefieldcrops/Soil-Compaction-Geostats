@@ -21,3 +21,12 @@ The workflow performs:
 
 
 ## Directory Structure
+
+geostats_kriging_repository/ ├─ data/ ├─ scripts/ ├─ results/ ├─ workflow/ └─ README.md
+
+## Running the Workflow
+
+```r
+source("scripts/kriging_workflow.R")
+
+
