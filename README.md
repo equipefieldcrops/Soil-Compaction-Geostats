@@ -1,13 +1,13 @@
 # Geostats Kriging Repository (Adapted for *Assessing Soil Mechanical Resistance at Different Depths and Compaction Mapping at Field Scale*)
 
-This repository contains a **fully reproducible geostatistical workflow** in **English**, adapted for the paper:
+This repository contains a **fully reproducible geostatistical workflow**, adapted for the paper:
 
 **“Assessing soil mechanical resistance at different depths and compaction mapping at field scale” (Camargo et al. 2024)**
 
 It includes:
 
 * `scripts/kriging_workflow.R` — complete and commented R script
-* `README.md` — full documentation in English
+* `README.md` — full documentation 
 * `workflow/` — reproducibility setup (`renv`, Makefile)
 
 ---
